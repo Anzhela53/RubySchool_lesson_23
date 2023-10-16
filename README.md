@@ -1,2 +1,3 @@
-# RubySchool_lesson_23
-Repository  for lesson 23
+# RubySchool_lesson_25
+Repository  for lesson 25
+Start work with sql
